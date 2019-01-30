@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "alberta-unofficial-statistics",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Jamie Czerwinski <jamie.czerwinski@gmail.com>",
   "dependencies": {
     "d3": "^5.8.0",
     "gatsby": "^2.0.76",
@@ -45,9 +45,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/jczerwinski/alberta-unofficial-statistics"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/jczerwinski/alberta-unofficial-statistics/issues"
   }
 }
