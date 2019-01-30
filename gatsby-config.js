@@ -2,8 +2,8 @@ module.exports = {
   pathPrefix: '/alberta-unofficial-statistics',
   siteMetadata: {
     title: `Alberta un-Official Statistics`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    description: `Alberta un-Official Statistics`,
+    author: `Jamie Czerwinski`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
